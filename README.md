@@ -1,7 +1,9 @@
-**There are multiple files of initial commits.
-There is separate file for Q2
+
+**There is separate file for Q2
 The main.py file contains all the code from Q3 and Onwards**
-Please refer main.Py and Q22.py files for passing the arguments.
+**Please refer main.Py and Q2.py files for passing the arguments.****
+
+**There were multiple files of initial commits. The Copy_of_Copy_of_Assignment1 is one among such file. If the main.py fails to take argument, Please refer google colab file Copy_of_Copy_of_Assignment1.
 
 **Code Structure**
 Code is in following parts:- 
