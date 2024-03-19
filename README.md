@@ -1,5 +1,5 @@
 
-**There is separate file for Q2
+**There is separate file for Q2.
 The main.py file contains all the code from Q3 and Onwards**
 **Please refer main.Py and Q2.py files for passing the arguments.****
 
