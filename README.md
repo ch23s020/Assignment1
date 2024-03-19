@@ -1,3 +1,31 @@
+**There are multiple files of initial commits.
+There is separate file for Q2
+The main.py file contains all the code from Q3 and Onwards**
+Please refer main.Py and Q22.py files for passing the arguments.
+
+**Code Structure**
+Code is in following parts:- 
+1) Pip Install wandb
+2) Data Processing
+3) Question 2 to View The Images
+4) An Single class MetaNeuron containing all the stages as follows:
+   a) Initialsing Variables/Hyperparameters to Class
+   b) Defining Activation Function and Its derivative and Loss Functions
+   c) Forward  and Back Propogation.
+   d) Defining Optimizers
+   e) Training Function.
+Training Function contains minibatch approach. Wandb Log
+
+At the final Wandb initialisation is done.
+
+It is possible that the converted .py file may not run properly as I am not aware of it completely. Hence, I request to run the google colab file to check the final output and to test for any added functionality.
+
+During the Run I used two Wandb account for testing purposes as it is creating error
+1) One:- Username:- CH23S020(My Roll No) from Smail
+2) username:- rrjadhao27(Personal Mail id)
+
+Hence you might see reports from both the account. All are for the same above mentioned stages in the same order.
+
 
 **Preperations Stage **
 # Assignment1
@@ -32,30 +60,6 @@ modification:-
 2. repaeat all procedure of running forward and back with added algo.
 
 Finally push to wandb and see for correlation graph and other mentioned stuff in assignment.
-
-**Code Structure**
-Code is in following parts:- 
-1) Pip Install wandb
-2) Data Processing
-3) Question 2 to View The Images
-4) An Single class MetaNeuron containing all the stages as follows:
-   a) Initialsing Variables/Hyperparameters to Class
-   b) Defining Activation Function and Its derivative and Loss Functions
-   c) Forward  and Back Propogation.
-   d) Defining Optimizers
-   e) Training Function.
-Training Function contains minibatch approach. Wandb Log
-
-At the final Wandb initialisation is done.
-
-It is possible that the converted .py file may not run properly as I am not aware of it completely. Hence, I request to run the google colab file to check the final output and to test for any added functionality.
-
-During the Run I used two Wandb account for testing purposes as it is creating error
-1) One:- Username:- CH23S020(My Roll No) from Smail
-2) username:- rrjadhao27(Personal Mail id)
-
-Hence you might see reports from both the account. All are for the same above mentioned stages in the same order.
-
 
 
 
