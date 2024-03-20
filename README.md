@@ -2,6 +2,10 @@
 **There is separate file for Q2.
 The main.py file contains all the code from Q3 and Onwards**
 **Please refer main.Py and Q2.py files for passing the arguments.****
+**
+For Wandb Report See the results under Cross_Entropy_sweeps**
+
+https://wandb.ai/ch23s020/fashion_mnist_hyperparameter_tuning/reports/CH23S020-Assignment-1--Vmlldzo3MTk5OTE2?accessToken=5m0iiz0otmssvbssjv6efj5xapqwyl52mlujsl3pk8rf09ukk6qilzhpm0f7xsnw
 
 **There were multiple files of initial commits. The Copy_of_Copy_of_Assignment1 is one among such file. If the main.py fails to take argument, Please refer google colab file Copy_of_Copy_of_Assignment1.
 
